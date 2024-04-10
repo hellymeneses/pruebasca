@@ -1,0 +1,12 @@
+buildscript {
+	ext {
+		springBootVersion = '3.2.2'
+	}
+}
+
+plugins {
+
+	id 'org.springframework.boot' version  "${springBootVersion}" apply false
+}
+
+apply from: './main.gradle'

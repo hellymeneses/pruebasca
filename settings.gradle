@@ -1,0 +1,23 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()}
+}
+
+
+rootProject.name = 'pruebasCA'
+
+include ':app-service'
+include ':model'
+include ':usecase'
+include ':rest'
+include ':jpa'
+include ':web-client'
+
+project(':app-service').projectDir = file('./applications/app-service')
+project(':model').projectDir = file('./domain/model')
+project(':usecase').projectDir = file('./domain/usecase')
+project(':rest').projectDir = file('./infrastructure/entry-points/rest')
+project(':jpa').projectDir = file('./infrastructure/driven-adapters/jpa')
+project(':web-client').projectDir = file('./infrastructure/driven-adapters/web-client')
+
+
