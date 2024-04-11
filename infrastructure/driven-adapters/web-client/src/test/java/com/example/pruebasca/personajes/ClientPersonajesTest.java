@@ -49,6 +49,7 @@ class ClientPersonajesTest {
         mockBackEnd.shutdown();
     }
 
+
     @BeforeEach
     void initialize() {
         String baseUrl = String.format("http://localhost:%s",
