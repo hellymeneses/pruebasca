@@ -1,5 +1,7 @@
 package com.example.pruebasca;
 
+import com.example.pruebasca.cliente.ConsultarClienteUseCase;
+import com.example.pruebasca.cliente.repository.ClienteRepository;
 import com.example.pruebasca.personajes.ConsultarDetallePersonajeUseCase;
 import com.example.pruebasca.personajes.ConsultarPersonajesUseCase;
 import com.example.pruebasca.personajes.repository.DetallePersonajeRepository;
@@ -19,5 +21,9 @@ public class UseCaseConfig {
     @Bean
     public ConsultarDetallePersonajeUseCase consultarDetallePersonajeUseCase (DetallePersonajeRepository detalleRepository){
         return  new ConsultarDetallePersonajeUseCase(detalleRepository);
+    }
+    @Bean
+    public ConsultarClienteUseCase consultarCliente(ClienteRepository clienteRepository){
+        return new ConsultarClienteUseCase(clienteRepository);
     }
 }
