@@ -1,0 +1,9 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Õ³ìşÿÿÿÿ8ÖşÆœì1
+X	java:S125"<This block of commented-out lines of code should be removed.(ÎŠ™¡8ØşÆœì1
+€
+java:S1128"^Remove this unused import 'com.example.pruebasCA.personajes.transformer.PersonajeTransformer'.(ÎîïŒùÿÿÿÿ8–„Äì1
+\
+java:S1128":Remove this unused import 'org.mapstruct.factory.Mappers'.(Ôä¸ûÿÿÿÿ8–„Äì1
+e
+java:S1128"HRemove this unused import 'org.springframework.context.annotation.Bean'.(‚î‰Ş8–„Äì1

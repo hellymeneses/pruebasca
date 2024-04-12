@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$USER_HOME$/OneDrive - I.A.S. Ingeniería, aplicaciones y software S.A.S/gradle-4.10.2/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.30/f195ee86e6c896ea47a1d39defbe20eb59cd149d/lombok-1.18.30.jar" />
+          <entry name="$USER_HOME$/OneDrive - I.A.S. Ingeniería, aplicaciones y software S.A.S/gradle-4.10.2/caches/modules-2/files-2.1/org.mapstruct/mapstruct-processor/1.5.2.Final/74a21679400fceb1f98987926cea1786c0e39e77/mapstruct-processor-1.5.2.Final.jar" />
+        </processorPath>
+        <module name="pruebasCA.app-service.main" />
+        <module name="driven-adapters.pruebasCA.web-client.main" />
+      </profile>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$USER_HOME$/OneDrive - I.A.S. Ingeniería, aplicaciones y software S.A.S/gradle-4.10.2/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.30/f195ee86e6c896ea47a1d39defbe20eb59cd149d/lombok-1.18.30.jar" />
+        </processorPath>
+        <module name="pruebasCA.usecase.test" />
+        <module name="driven-adapters.pruebasCA.web-client.test" />
+        <module name="pruebasCA.app-service.test" />
+        <module name="pruebasCA.rest.main" />
+        <module name="pruebasCA.model.main" />
+        <module name="pruebasCA.model.test" />
+        <module name="driven-adapters.pruebasCA.jpa.main" />
+        <module name="driven-adapters.pruebasCA.jpa.test" />
+        <module name="pruebasCA.rest.test" />
+        <module name="pruebasCA.usecase.main" />
+      </profile>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.30/f195ee86e6c896ea47a1d39defbe20eb59cd149d/lombok-1.18.30.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mapstruct/mapstruct-processor/1.5.2.Final/74a21679400fceb1f98987926cea1786c0e39e77/mapstruct-processor-1.5.2.Final.jar" />
+        </processorPath>
+        <module name="pruebasCA.app-service.main" />
+        <module name="pruebasCA.web-client.main" />
+      </profile>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.30/f195ee86e6c896ea47a1d39defbe20eb59cd149d/lombok-1.18.30.jar" />
+        </processorPath>
+        <module name="pruebasCA.usecase.test" />
+        <module name="pruebasCA.app-service.test" />
+        <module name="pruebasCA.rest.main" />
+        <module name="pruebasCA.model.main" />
+        <module name="pruebasCA.jpa.test" />
+        <module name="pruebasCA.model.test" />
+        <module name="pruebasCA.jpa.main" />
+        <module name="pruebasCA.web-client.test" />
+        <module name="pruebasCA.rest.test" />
+        <module name="pruebasCA.usecase.main" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="17" />
+  </component>
+</project>

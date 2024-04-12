@@ -1,0 +1,5 @@
+
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(çë8½ÎĞ€ì1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‰‡Õ¸8½ÎĞ€ì1
+\
+java:S1144"?Remove this unused private "consultarListadoPersonajes" method.(ÀÖ¸ä8ÀÎĞ€ì1

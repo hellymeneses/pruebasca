@@ -1,0 +1,18 @@
+
+p
+java:S1104"NMake id a static final constant or non-public and provide accessors if needed.(Â¥Šˆøÿÿÿÿ8™àÙ‡ì1
+m
+java:S1104"PMake name a static final constant or non-public and provide accessors if needed.( þÍ¾8šàÙ‡ì1
+o
+java:S1104"RMake status a static final constant or non-public and provide accessors if needed.(œ©²ÿ8šàÙ‡ì1
+u
+java:S1104"SMake species a static final constant or non-public and provide accessors if needed.(õÝó“ÿÿÿÿÿ8šàÙ‡ì1
+r
+java:S1104"PMake type a static final constant or non-public and provide accessors if needed.(ÙþÓ¼ûÿÿÿÿ8šàÙ‡ì1
+t
+java:S1104"RMake gender a static final constant or non-public and provide accessors if needed.(×¾“æùÿÿÿÿ8šàÙ‡ì1
+n
+java:S1104"QMake image a static final constant or non-public and provide accessors if needed.(•—î×8šàÙ‡ì1
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‰‡Õ¸
+o
+java:S1128"RRemove this unused import 'com.fasterxml.jackson.annotation.JsonIgnoreProperties'.(ô’ˆî8Ì›æ›ì1

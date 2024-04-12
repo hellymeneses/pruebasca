@@ -1,0 +1,7 @@
+server:
+  port: 9000
+
+rickyMorty:
+  consultarPersonaje:
+    url: https://rickandmortyapi.com/api/character/
+
